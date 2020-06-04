@@ -118,8 +118,8 @@
       forceLatest:    false,
       keepTweetsInTL: true,
       smallSidebars:  false,
-      stickySidebars: true,
-      leftTrends:     true,
+      stickySidebars: false,
+      leftTrends:     false,
       squareAvatars:  false,
       biggerPreviews: true
     },
